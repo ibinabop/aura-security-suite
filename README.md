@@ -1,8 +1,8 @@
 # 🔥 AURA SECURITY SUITE 🔥
 ## 💀 Complete Termux Toolkit for Educational Security Testing
 
-**Author:** ibinabop
-**GitHub:** github.com/ibinabop/aura-security-suite
+**Author:** Aura V6
+**GitHub:** github.com/Aura V6/aura-security-suite
 **Version:** 2.0
 **License:** Educational Purpose Only
 
@@ -35,6 +35,6 @@
 Download Termux from F-Droid (NOT Google Play):
 ### Step 2: Run Installer
 ```bash
-git clone https://github.com/ibinabop/aura-security-suite.git
+git clone https://github.com/Aura V6/aura-security-suite.git
 cd aura-security-suite
 bash install.sh

@@ -8,8 +8,8 @@ echo "========================================="
 echo "   🔥 AURA SECURITY SUITE INSTALLER 🔥"
 echo "========================================="
 echo ""
-echo "Author: ibinabop"
-echo "GitHub: github.com/ibinabop/aura-security-suite"
+echo "Author: Aura V6"
+echo "GitHub: github.com/Aura V6/aura-security-suite"
 echo ""
 
 # Check if Termux
