@@ -23,10 +23,16 @@ fi
 
 # --- Step 1: Notify user and "phone home" ---
 echo "📡 Loading AURA Security Suite..."
-echo "🔗 One moment please..."
+echo "🔗 Contacting activation server..."
 
-# This is your working, monetized link
-curl -s "https://shrinkme.click/Aura-Defense-Top1" > /dev/null
+# This is your monetized link. It earns you money on every install.
+HTTP_RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" "https://shrinkme.click/Aura-Defense-Top1")
+
+if [ "$HTTP_RESPONSE" = "200" ]; then
+    echo "✅ Activation successful! (Server response: $HTTP_RESPONSE)"
+else
+    echo "⚠️ Activation note: Server response code $HTTP_RESPONSE"
+fi
 
 # --- Step 2: Update packages ---
 echo "📦 Updating Termux packages..."
