@@ -1,0 +1,15 @@
+#!/bin/bash
+echo "========================================="
+echo "   LOCALHOST.RUN TUNNEL"
+echo "========================================="
+echo ""
+echo "Before starting tunnel:"
+echo "1. Open a NEW Termux window"
+echo "2. Start your phishing tool (choose Localhost)"
+echo "3. Come back here and press Enter"
+echo ""
+read -p "Press Enter to start tunnel..."
+echo ""
+echo "Type 'yes' when prompted for fingerprint"
+echo ""
+ssh -R 80:localhost:8080 localhost.run
