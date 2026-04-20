@@ -1,0 +1,101 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         AURA SECURITY SUITE - TOOLS LIST                      ║
+║                              💀 50+ TOOLS 💀                                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🎣 PHISHING TOOLS (7)                                                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Zphisher        - 30+ phishing templates (Facebook, Instagram, etc.)       │
+│  BlackEye        - Multi-platform phishing tool                              │
+│  SocialFish      - Instagram/Facebook page cloning                          │
+│  Python Server   - Custom Python phishing server                            │
+│  AdvPhishing     - OTP capture (2FA bypass)                                 │
+│  PyPhisher       - Modern phishing with OTP page support                    │
+│  MrPhish         - 60+ pages with OTP bypass control                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🌐 TUNNELING TOOLS (3)                                                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Cloudflared     - Create public HTTPS tunnels (RECOMMENDED)                │
+│  Bore            - Lightweight TCP tunnel                                   │
+│  Check Tunnels   - View active tunnel connections                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🔍 OSINT & RECON (5)                                                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Sherlock        - Find usernames across 300+ platforms                     │
+│  PhoneInfoga     - Phone number intelligence (carrier, country)             │
+│  theHarvester    - Email and domain OSINT                                   │
+│  IP-Tracer       - IP address geolocation                                   │
+│  Nmap            - Port scanning and network discovery                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  💀 EXPLOITATION & PAYLOADS (3)                                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Metasploit      - Exploitation framework                                   │
+│  Msfvenom        - Generate payloads (APK, EXE, ELF, PHP, Python)          │
+│  Reverse Shell   - Python reverse shell generator                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🔓 PASSWORD CRACKING (2)                                                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  John the Ripper - Password cracker (ZIP, PDF, hashes)                      │
+│  Wordlist Manager - Download and manage password wordlists                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🛡️ DEFENSE & UTILITIES (4)                                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Backup System   - Backup Termux to /sdcard/                                │
+│  File Integrity  - Detect file changes (FIM)                                │
+│  Encrypt File    - AES-256 file encryption                                  │
+│  Decrypt File    - Decrypt .enc files                                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  📡 WIFI SECURITY (1)                                                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Aircrack-ng     - Crack WPA/WPA2 handshake files                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  📱 PHONE SECURITY (5)                                                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Anti-Theft      - Save IMEI for emergency                                  │
+│  SIM Protection  - SIM swap prevention guide                                │
+│  Anti-Stalking   - Tracking protection                                      │
+│  IMEI Blocker    - Guide to block stolen phones                             │
+│  Find My Device  - Open Google/Apple tracking                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  💀 ADVANCED HIJACKING (2)                                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  CookieStealers  - Session hijacking tools                                  │
+│  Token Extractor - Extract browser tokens                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🔓 2FA BYPASS TOOLS (3)                                                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  AdvPhishing     - Captures password AND OTP code                           │
+│  PyPhisher       - OTP page support for 2FA bypass                          │
+│  MrPhish         - 60+ pages with OTP bypass control                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  📊 SYSTEM TOOLS (3)                                                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Dashboard       - Security status overview                                 │
+│  Emergency Kit   - Recovery tools                                           │
+│  Combat System   - Attack/Defense information                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  TOTAL: 35+ TOOLS | PASSWORD: AuraV6 | FOR EDUCATIONAL USE ONLY              ║
+╚══════════════════════════════════════════════════════════════════════════════╝

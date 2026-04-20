@@ -1,27 +1,22 @@
 #!/bin/bash
 
-# AURA PHONE SECURITY MENU
-# Password: AuraV6
-
 while true; do
 clear
-echo "╔══════════════════════════════════════════════════════════════╗"
-echo "║              📱 AURA PHONE SECURITY MENU 📱                  ║
-echo "╚══════════════════════════════════════════════════════════════╝"
+echo "========================================="
+echo "       AURA PHONE SECURITY MENU"
+echo "========================================="
 echo ""
-echo "┌─────────────────────────────────────────────────────────────┐"
-echo "│  1. Anti-Theft Protection (IMEI Saver)                       │
-│  2. SIM Swap Protection Guide                                     │
-│  3. Anti-Stalking Protection                                      │
-│  4. IMEI Blocker (For stolen phones)                              │
-│  5. Find My Device (Open in browser)                              │
-│  6. View Saved IMEI                                               │
-│  0. Back to Main Menu                                             │
-└─────────────────────────────────────────────────────────────────┘"
+echo "1. Anti-Theft Protection (IMEI Saver)"
+echo "2. SIM Swap Protection Guide"
+echo "3. Anti-Stalking Protection"
+echo "4. IMEI Blocker (For stolen phones)"
+echo "5. Find My Device (Open in browser)"
+echo "6. View Saved IMEI"
+echo "0. Back to Main Menu"
 echo ""
-read -p "Select option: " OPTION
+read -p "Select option (0-6): " OPT
 
-case $OPTION in
+case $OPT in
     1) bash ~/aura_antitheft.sh ;;
     2) bash ~/aura_sim_protect.sh ;;
     3) bash ~/aura_antistalk.sh ;;

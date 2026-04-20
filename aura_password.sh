@@ -1,16 +1,18 @@
 #!/bin/bash
 
 echo "========================================="
-echo "       WIFI SECURITY MENU"
+echo "       PASSWORD CRACKING MENU"
 echo "========================================="
 echo ""
-echo "1. Aircrack-ng (WiFi Cracking)"
+echo "1. John the Ripper"
+echo "2. Wordlist Manager"
 echo "0. Back to Main Menu"
 echo ""
-read -p "Select option (0-1): " OPT
+read -p "Select option (0-2): " OPT
 
 case $OPT in
-    1) cd ~/aircrack-ng && LD_LIBRARY_PATH=.libs:$LD_LIBRARY_PATH ./aircrack-ng --help ;;
+    1) bash ~/aura_john.sh ;;
+    2) bash ~/aura_wordlist.sh ;;
     0) bash ~/aura.sh ;;
     *) echo "Invalid option" ;;
 esac
